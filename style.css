@@ -32,6 +32,8 @@ body{
 
 .todo-items{
     margin-bottom: 30px;
+    overflow-wrap: break-word;
+    max-width: 500px;
 }
 
 .todo-item{
